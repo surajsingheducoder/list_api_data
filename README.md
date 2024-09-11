@@ -36,6 +36,7 @@ The app assumes the API for fetching users returns data in a consistent format. 
 The app has basic error handling, where it shows a message if the data fails to load.
 Search functionality is case-insensitive and filters users based on their names.
 Pull-to-refresh functionality allows users to reload the list of users.
+
 Screenshots Added in Project lavel assets/screen_shout
 1. User List Screen
 
