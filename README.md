@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/user-list-flutter-app.git
+git clone https://github.com/surajsingheducoder/list_api_data.git
 cd user-list-flutter-app
 Install dependencies:
 
